@@ -1,0 +1,19 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.0
+2 info using node@v22.11.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:c:\Users\manoj\Documents\hotstar-react\hotstar\.npmrc
+5 silly config load:file:C:\Users\manoj\.npmrc
+6 silly config load:file:c:\Users\manoj\Documents\hotstar-react\hotstar\%AppData%\npm\etc\npmrc
+7 verbose title npm view react-scripts description dist-tags.latest homepage version time
+8 verbose argv "view" "--json" "--" "react-scripts" "description" "dist-tags.latest" "homepage" "version" "time"
+9 verbose logfile logs-max:10 dir:c:\Users\manoj\Documents\hotstar-react\hotstar\%AppData%\npm-cache\_logs\2024-11-29T06_14_28_546Z-
+10 verbose logfile c:\Users\manoj\Documents\hotstar-react\hotstar\%AppData%\npm-cache\_logs\2024-11-29T06_14_28_546Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/react-scripts 3438ms (cache miss)
+13 verbose cwd c:\Users\manoj\Documents\hotstar-react\hotstar
+14 verbose os Windows_NT 10.0.26120
+15 verbose node v22.11.0
+16 verbose npm  v10.9.0
+17 verbose exit 0
+18 info ok
